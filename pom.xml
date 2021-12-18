@@ -13,7 +13,7 @@
 
     <properties>
         <java.version>14.0.1</java.version>
-        <log4j.version>2.13.1</log4j.version>
+        <log4j.version>2.17.0</log4j.version>
         <maven.compiler.source>14</maven.compiler.source>
         <maven.compiler.target>14</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
